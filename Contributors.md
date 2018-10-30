@@ -6,6 +6,7 @@
 - [Merve Erdol](https://github.com/merveer)
 - [Aaron Dills](https://github.com/AaronDills)
 - [Jessica Campbell](https://github.com/jlcampbell)
+- [Sharon Baby](https://github.com/BabySharon)
 - [Tyron Wytrykowski](https://github.com/tyronwyt)
 - [Bira](https://github.com/bira91)
 - [Daniel Montague](https://github.com/danMontague)
